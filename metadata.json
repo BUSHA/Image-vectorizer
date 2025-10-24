@@ -1,0 +1,5 @@
+{
+  "name": "Clipboard image vectorizer",
+  "description": "A simple web-based tool that allows users to paste an image from the clipboard, automatically vectorize it into a clean SVG format, adjust the output, and export the result.",
+  "requestFramePermissions": []
+}
